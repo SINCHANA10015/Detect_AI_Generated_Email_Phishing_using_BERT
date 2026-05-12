@@ -67,6 +67,4 @@ more effective than traditional machine learning approaches.
 | Optimizer | AdamW |
 | Training Platform | Kaggle GPU T4 x2 |
 
----
 
-## 📂 Files
