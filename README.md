@@ -1,4 +1,4 @@
-# 📧 Phishing Email Detection using BERT
+# 📧Detect AI Generated Email Phishing using BERT (NLP . Deep Learning)              
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![BERT](https://img.shields.io/badge/Model-BERT-orange)
