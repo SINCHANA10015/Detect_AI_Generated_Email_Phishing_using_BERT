@@ -149,6 +149,7 @@ streamlit run app.py
 ---
 
 ## 🔄 System Workflow
+```
 User Input (Sender Email, Reply-To, Subject, Email Body)
 |
 +─────────────+─────────────+
@@ -169,6 +170,7 @@ BERT confidence + Source risk boost
 PHISHING      LEGITIMATE     SUSPICIOUS
 🚨 Red         ✅ Green       ⚠️ Yellow
 ---
+```
 ---
 
 ## 💻 Technologies Used
