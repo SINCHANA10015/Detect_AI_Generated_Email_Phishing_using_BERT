@@ -100,6 +100,7 @@ The Streamlit app accepts the following inputs:
 | Training Platform | Kaggle GPU T4 x2 |
 ---
 ## 📂 Project Structure
+```
 Detect_AI_Generated_Email_Phishing_Detection/
 ├── Phishing_Email_Detection_using_BERT.ipynb
 │     ├── Exploratory Data Analysis (EDA)
@@ -121,6 +122,7 @@ Detect_AI_Generated_Email_Phishing_Detection/
 ├── requirements.txt       ← Python dependencies
 └── README.md              ← Project documentation
 ---
+```
 ---
 
 ## 🛠️ Installation and Setup
@@ -194,14 +196,6 @@ PHISHING      LEGITIMATE     SUSPICIOUS
 - 🔲 URL and attachment scanning module
 - 🔲 Deploy to Hugging Face Spaces for public access
 - 🔲 Mobile application for on-the-go detection
-
----
-
-## 👩‍💻 Author
-
-**Sinchana Mutagekar**  
-Department of Computer Science and Engineering  
-Academic Year 2025-2026
 
 ---
 
